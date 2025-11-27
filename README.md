@@ -1,1 +1,1 @@
-# File-Compressor-Decompressor
+# This project is a custom Paint application built in Java, featuring shape drawing, selection, movement, color changes, and an undo/redo system. It uses a clean architecture with strategies/commands to handle different drawing modes like lines, rectangles, circles, and erasing. The app supports a live-preview while drawing, a toolbar for tool selection, and a model-view setup that keeps the canvas updated smoothly. The final result is a functional, user-friendly drawing program with organized code and reliable interaction handling.
